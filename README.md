@@ -1,3 +1,8 @@
+# Standing on the shoulder of giants!
+Thank you to all of the open source projects that made setting up this blog quick and easy. A special thanks to:
+* Eleventy https://www.11ty.dev/ - an easy and fast static site generator
+* Hylia - 
+
 # A simple starter kit for Eleventy
 
 Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend it for yourself.
